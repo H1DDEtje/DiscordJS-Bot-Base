@@ -1,0 +1,7 @@
+{
+    "token": "YOUR BOT TOKEN",
+    "prefix": "YOUR PREFIX",
+    "muteID": "MUTE ROLE ID",
+    "welcomeID": "WELCOME CHANNEL ID",
+    "logID": "LOG CHANNEL ID"
+}
